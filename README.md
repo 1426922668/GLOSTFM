@@ -1,0 +1,2 @@
+# GLOSTFM
+Spatiotemporal fusion
