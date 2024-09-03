@@ -1,6 +1,4 @@
 # GLOSTFM
-Spatiotemporal fusion
-
 This repository contains the implementation of the Global Spatiotemporal Fusion Model (GLOSTFM), a novel approach designed to generate global Land Surface Temperature (LST) products by integrating data from multiple remote sensing sources. GLOSTFM leverages the strengths of both thermal infrared and microwave sensors, effectively addressing challenges related to spatiotemporal continuity, computational efficiency, and data uncertainty on a global scale.
 
 ## Overview
